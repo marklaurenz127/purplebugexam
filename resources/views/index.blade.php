@@ -21,7 +21,7 @@
             <input type="text" class="form-control" id="email">
         </div>
         <div class="form-group">
-            <label for="">Enter password</label>
+            <label for="">Enter password <small><i>Default password is 0000</i></small> </label>
             <input type="password" class="form-control" id="password">
         </div><br>
         <button class="form-control btn btn-info" id="btnLogin">
